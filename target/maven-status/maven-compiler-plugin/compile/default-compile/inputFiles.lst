@@ -1,0 +1,15 @@
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\service\strategy\impl\PrazoPagamentoInferiorDezAnos.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\config\RabbitMQConfiguration.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\domain\Proposta.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\service\AnaliseCreditoService.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\service\NotificacaoRabbitMQService.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\exceptions\StrategyException.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\service\strategy\impl\OutrosEmprestimosEmAndamento.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\service\strategy\CalculoPonto.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\AnalisecreditoApplication.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\domain\Usuario.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\service\strategy\impl\NomeNegativoImpl.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\constante\MensagemConstante.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\service\strategy\impl\RendaMaiorQueSolicitado.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\listener\PropostaEmAnaliseListener.java
+C:\Users\MARQUOLA\Desktop\develops\microserviço-curso\analisecredito\src\main\java\com\pieropan\analisecredito\service\strategy\impl\PontuacaoCoreImpl.java

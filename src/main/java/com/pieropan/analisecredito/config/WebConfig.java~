@@ -1,0 +1,4 @@
+package com.pieropan.analisecredito.config;
+
+public class WebConfig implements WebConfigure{
+}

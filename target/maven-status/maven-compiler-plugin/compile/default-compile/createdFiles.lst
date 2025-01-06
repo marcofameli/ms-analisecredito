@@ -1,0 +1,4 @@
+com\pieropan\analisecredito\config\RabbitMQConfiguration.class
+com\pieropan\analisecredito\exceptions\StrategyException.class
+com\pieropan\analisecredito\constante\MensagemConstante.class
+com\pieropan\analisecredito\service\NotificacaoRabbitMQService.class
